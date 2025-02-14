@@ -1,0 +1,14 @@
+# Source
+
+## Enum Variants
+
+| Name | Value |
+|---- | -----|
+| Upload | upload |
+| Repository | repository |
+| Mistral | mistral |
+
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
