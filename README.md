@@ -80,7 +80,6 @@ All URIs are relative to *https://api.mistral.ai*
 - [CompletionEvent](docs/CompletionEvent.md)
 - [CompletionResponseStreamChoice](docs/CompletionResponseStreamChoice.md)
 - [Content](docs/Content.md)
-- [Content1](docs/Content1.md)
 - [ContentChunk](docs/ContentChunk.md)
 - [DeleteFileOut](docs/DeleteFileOut.md)
 - [DeleteModelOut](docs/DeleteModelOut.md)
