@@ -27,6 +27,13 @@ impl SystemMessage {
         }
     }
 }
+
+impl From<String> for SystemMessage {
+    fn from(s: String) -> Self {
+        let content = models::Content::String(s);
+        SystemMessage::new(content)
+    }
+}
 ///
 #[derive(Clone, Copy, Debug, Eq, PartialEq, Ord, PartialOrd, Hash, Serialize, Deserialize)]
 pub enum Role {
